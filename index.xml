@@ -1,0 +1,16 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enrique Román Calvo</title>
+    <link>https://enrique-roman-calvo.github.io/</link>
+    <description>Recent content on Enrique Román Calvo</description>
+    
+    <language>es</language>
+    <managingEditor>calvo@informatik.uni-freiburg.de (Enrique Román Calvo)</managingEditor>
+    <webMaster>calvo@informatik.uni-freiburg.de (Enrique Román Calvo)</webMaster>
+    <lastBuildDate>Wed, 14 Sep 2022 14:44:56 +0200</lastBuildDate>
+    
+    <atom:link href="https://enrique-roman-calvo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
